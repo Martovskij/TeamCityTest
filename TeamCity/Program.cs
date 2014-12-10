@@ -11,6 +11,7 @@ namespace TeamCity
     static void Main(string[] args)
     {
       Console.WriteLine("");
+      Console.WriteLine("");
     }
   }
 }
