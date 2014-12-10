@@ -10,6 +10,7 @@ namespace TeamCity
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("");
     }
   }
 }
