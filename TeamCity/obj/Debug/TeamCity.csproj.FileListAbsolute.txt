@@ -1,0 +1,1 @@
+D:\MyWork\Projects\Prototyping\TeamCity\TeamCity\bin\Debug\TeamCity.exe.config
